@@ -350,7 +350,6 @@ LLMCorrectnessDetector:
       3 = Major errors (e.g., wrong proof of main theorem, incorrect core algorithm, results that contradict methodology, error in key derivation, flawed analysis, error in supporting proof, inconsistencies in core arguments)
       
       Note:
-      * The paper you are reviewing may be truncated to approximately 10 pages. The appendix might not be available, and the references section might have been cut off. Do not flag issues related to missing appendices or incomplete references as errors.
       * For each key issue you identify, provide the specific error (what is wrong) and where it appears. Use LaTeX notation for any mathematical expressions or formulas when describing errors.
       * Please do not use unicode characters for mathematical expressions or formulas.
       * Mistakes that relate to background information or general knowledge are more likely to be less critical. 
@@ -428,7 +427,7 @@ LLMCriticalityVerifier:
       2. If present, what is its severity and impact on the paper's validity?
       3. What is the real-world impact on the paper's validity and usefulness?
 
-      Make sure to re-read the paper carefully and understand the context of the issues so you can validate them. Note that the paper may be truncated to approximately 10 pages, so the appendix might not be available and the references section might have been cut off. Take this into account when verifying issues.
+      Make sure to re-read the paper carefully and understand the context of the issues so you can validate them.
       
       Classify each identified issue into one of three categories:
       
