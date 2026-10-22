@@ -2500,7 +2500,7 @@ requires-dist = [
     { name = "numpy", specifier = ">=2.3.2" },
     { name = "openreview-py", specifier = ">=1.51.2" },
     { name = "pandas", specifier = ">=2.3.1" },
-    { name = "pillow", specifier = ">=12.2.0" },
+    { name = "pillow", specifier = ">=13.0.0" },
     { name = "pymupdf", specifier = ">=1.24.0" },
     { name = "pypdf", specifier = ">=5.9.0" },
     { name = "pyyaml", specifier = ">=6.0.0" },
